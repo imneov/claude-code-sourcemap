@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "walk",
+  "steps": [
+    {
+      "file": "restored-src/src/constants/prompts.ts",
+      "description": "10.5 ⾃主⼯作⾏为框架\nKAIROS 模式的 Proactive Section（prompts.ts 第 864-913 ⾏）定义了⼀套完整的⾃主⾏为协议：",
+      "line": 900
+    }
+  ],
+  "ref": "main"
+}
